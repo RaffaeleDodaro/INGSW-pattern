@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cac8d8f-2828-475b-bf43-ed9f7276698f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Facade/bin/facade/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Facade/bin/facade/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facade/src/facade/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Facade/src/facade/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/Controller (1)/ControllerAvvio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/Controller (1)/ControllerAvvio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/Prove (1)/Audi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/Prove (1)/Audi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/Prove (1)/CreatorCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/Prove (1)/CreatorCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/Prove (1)/Fiat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/Prove (1)/Fiat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/model (1)/Auto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/model (1)/Auto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/model (1)/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryMethod__Per_27_10_INGSW/bin/model (1)/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/Singleton__Per_03_11_INGSW.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/bin/Controller (1)/ControllerAvvio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/bin/Prove/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/bin/Prove/CreatorCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/bin/Prove/FamiliareAudi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/bin/Prove/FamiliareFiat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/bin/Prove/Fiat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/bin/Prove/SportivaAudi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/bin/Prove/SportivaFiat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/bin/fxml (1)/Avvio.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/bin/model (1)/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/bin/model (1)/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/src/Controller/ControllerAvvio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/src/Prove/Audi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/src/Prove/CreatorCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/src/Prove/FamiliareAudi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/src/Prove/FamiliareFiat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/src/Prove/Fiat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/src/Prove/SportivaAudi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/src/Prove/SportivaFiat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/src/fxml/Avvio.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/src/model/Auto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton__Per_03_11_INGSW/src/model/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kWcqByjoiBFZLImdTZKT8dLSsy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Chain-of-responsibility-Printer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cac8d8f-2828-475b-bf43-ed9f7276698f" name="Default Changelist" comment="" />
+      <created>1605819982407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605819982407</updated>
+      <workItem from="1605819983949" duration="3378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1605823512000">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="829" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1605823512000" />
+    <state x="466" y="259" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605824565275">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="466" y="259" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1605824565275" />
+    <state width="904" height="174" key="GridCell.Tab.0.bottom" timestamp="1605824926626">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="174" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605824926626" />
+    <state width="904" height="174" key="GridCell.Tab.0.center" timestamp="1605824926626">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="174" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1605824926626" />
+    <state width="904" height="174" key="GridCell.Tab.0.left" timestamp="1605824926625">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="174" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1605824926625" />
+    <state width="904" height="174" key="GridCell.Tab.0.right" timestamp="1605824926626">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="174" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605824926626" />
+  </component>
+</project>

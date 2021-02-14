@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="296.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.Client">
+   <children>
+      <CheckBox fx:id="cbColori" layoutX="44.0" layoutY="38.0" mnemonicParsing="false" text="Colori" />
+      <CheckBox fx:id="cbBiancoNero" layoutX="183.0" layoutY="40.0" mnemonicParsing="false" text="BN" />
+      <CheckBox fx:id="cbRosso" layoutX="348.0" layoutY="38.0" mnemonicParsing="false" text="Rosso" />
+      <CheckBox fx:id="cbBlu" layoutX="470.0" layoutY="40.0" mnemonicParsing="false" text="Blu" />
+      <Button fx:id="btnStampa" layoutX="248.0" layoutY="96.0" mnemonicParsing="false" onAction="#stampa" text="Stampa" />
+      <ImageView fitHeight="92.0" fitWidth="91.0" layoutX="32.0" layoutY="146.0">
+         <image>
+            <Image url="@stampante.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="92.0" fitWidth="103.0" layoutX="163.0" layoutY="156.0">
+         <image>
+            <Image url="@stampante.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="92.0" fitWidth="109.0" layoutX="450.0" layoutY="156.0">
+         <image>
+            <Image url="@stampante.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="92.0" fitWidth="103.0" layoutX="323.0" layoutY="156.0">
+         <image>
+            <Image url="@stampante.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgRossaBN" fitHeight="25.0" fitWidth="25.0" layoutX="32.0" layoutY="213.0" visible="false">
+         <image>
+            <Image url="@rosso.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgRossaColori" fitHeight="25.0" fitWidth="25.0" layoutX="163.0" layoutY="226.0" visible="false">
+         <image>
+            <Image url="@rosso.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgRossaBlu" fitHeight="25.0" fitWidth="25.0" layoutX="460.0" layoutY="228.0" visible="false">
+         <image>
+            <Image url="@rosso.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgRossaRosso" fitHeight="25.0" fitWidth="25.0" layoutX="323.0" layoutY="228.0" visible="false">
+         <image>
+            <Image url="@rosso.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgVerdeBN" fitHeight="25.0" fitWidth="25.0" layoutX="97.0" layoutY="216.0" visible="false">
+         <image>
+            <Image url="@verde.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgVerdeColori" fitHeight="25.0" fitWidth="25.0" layoutX="248.0" layoutY="229.0" visible="false">
+         <image>
+            <Image url="@verde.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgVerdeRosso" fitHeight="25.0" fitWidth="25.0" layoutX="401.0" layoutY="229.0" visible="false">
+         <image>
+            <Image url="@verde.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imgVerdeBlu" fitHeight="25.0" fitWidth="25.0" layoutX="534.0" layoutY="226.0" visible="false">
+         <image>
+            <Image url="@verde.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="43.0" layoutY="254.0" text="Bianco e Nero" />
+      <Label layoutX="188.0" layoutY="263.0" text="Colori" />
+      <Label layoutX="348.0" layoutY="263.0" text="Rosso" />
+      <Label layoutX="485.0" layoutY="263.0" text="Blu" />
+   </children>
+</AnchorPane>
